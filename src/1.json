@@ -1,0 +1,5 @@
+{
+    "name":"Stream",
+    "description":"You find yourself on the bank of a turbulent stream babbling along the base of the mountain itself. It is crossed by a stone bridge leading East to a dark cave entrance.",
+    "neighbours":{"e":2}
+}

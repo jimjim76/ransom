@@ -1,0 +1,5 @@
+{
+    "name":"Cave Entrance",
+    "description":"Inside the mountain it is very gloomy. There is a patch of sunlight to the West and dim tunnels wind away to the South and to the East",
+    "neighbours":{"w":1,"s":3}
+}

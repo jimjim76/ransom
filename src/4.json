@@ -1,0 +1,5 @@
+{
+    "name":"A Passage",
+    "description":"Travelling this East-West passage, you notice another tunnel South, across a great crevasse. A small snake is sleeping in its favourite cranny.",
+    "neighbours":{"e":2}
+}

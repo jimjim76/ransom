@@ -1,0 +1,5 @@
+{
+    "name":"Moat",
+    "description":"A moat to the East surrounds a fortress of titanic proportions. The tunnel from which you came is North, and you can see a large door beyond the lowered drawbridge.",
+    "neighbours":{"n":2}
+}
